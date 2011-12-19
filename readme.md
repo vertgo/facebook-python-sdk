@@ -1,4 +1,7 @@
-Facebook Python SDK
+Forked Facebook Python SDK
+====
+
+Facebook stopped supporting their python sdk, so we started a fork from their last version that was available
 ====
 
 This client library is designed to support the
