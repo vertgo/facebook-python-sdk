@@ -1,0 +1,4 @@
+.DS_Store
+.idea/
+src/facebook.pyc
+src/facebook_python_sdk.egg-info/
